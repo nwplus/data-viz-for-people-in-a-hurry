@@ -4,11 +4,21 @@ This workshop serves as a quick introduction to data science fundamentals, and i
 
 ## Participate
 
-Want to participate in this workshop? Join us on November 12th at 6pm. This workshop will be hosted on Zoom. RSVP [here](https://michaeldemar.co)!
+Want to participate in this workshop? Join us on November 12th at 6pm. This workshop will be hosted on Zoom. RSVP [here](https://lu.ma/nwplus-dataviz)!
 
 ### Pre-requisites
 
 None! To take part in this workshop, just show up ready to learn. All coding will take place on UBC's Syzygy servers. Access the server [here](https://ubc.syzygy.ca/).
+
+If you don't have access, you can also upload the file to Google Colab, available [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true).
+
+Hit GitHub, enter the following:
+
+`https://github.com/nwplus/data-viz-for-people-in-a-hurry`
+
+...and then choose the blank starter file!
+
+Once you begin, you'll need to uncomment all of the lines in the first cell and run the first cell to install the necessary dependencies. This will be covered in the workshop.
 
 ## About
 
