@@ -1,5 +1,3 @@
-<link rel="icon" href="/favicon.ico" type="image/x-icon" />
-
 # Data Visualization (with R) for People in a Hurry
 
 This workshop serves as a quick and dirty introduction to data science fundamentals, with a focus on visualization. It is currently a part of nwPlus' Workshop Series happening this fall. The title is loosely inspired by Neil deGrasse Tyson's "Astrophysics for People in a Hurry."
