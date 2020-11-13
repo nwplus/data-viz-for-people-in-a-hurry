@@ -2,7 +2,9 @@
 
 This workshop serves as a quick and dirty introduction to data science fundamentals, with a focus on visualization. It is currently a part of nwPlus' Workshop Series happening this fall. The title is loosely inspired by Neil deGrasse Tyson's "Astrophysics for People in a Hurry."
 
-<img src="images/cover.png" width="750px;" style="margin: 0 auto; text-align: center;"><br>
+<p align="center">
+    <img src="images/cover.png" width="750px;" style="margin: 0 auto; text-align: center;"><br>
+</p>
 
 > “Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.” <br>
 > ―Josh Wills, Director of Data Engineering at Slack
@@ -41,11 +43,17 @@ Once you begin, you'll need to uncomment all of the lines in the first cell and 
 
 Here are some helpful screenshots of the steps I just described.
 
-<img src="images/colab.png" width="750px;" style="margin: 0 auto; text-align: center;"><br>
+<p align="center">
+    <img src="images/colab.png" width="750px;" style="margin: 0 auto; text-align: center;"><br>
+</p>
 
-<img src="images/colab2.png" width="750px;" style="margin: 0 auto; text-align: center;"><br>
+<p align="center">
+    <img src="images/colab2.png" width="750px;" style="margin: 0 auto; text-align: center;"><br>
+</p>
 
-<img src="images/colab3.png" width="750px;" style="margin: 0 auto; text-align: center;"><br>
+<p align="center">
+    <img src="images/colab3.png" width="750px;" style="margin: 0 auto; text-align: center;"><br>
+</p>
 
 ## About
 
